@@ -33,7 +33,8 @@ Simply run the script in your terminal:
 ```bash
 python cloudcook.py
 
-🔧 Tech Stack
+
+##🔧 Tech Stack
 
 Language: Python 3
 AI Engine: Google Gemini API (google-generativeai)
