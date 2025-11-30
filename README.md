@@ -32,3 +32,8 @@ Simply run the script in your terminal:
 
 ```bash
 python cloudcook.py
+
+## 🔧 Tech Stack
+* **Language:** Python 3
+* **AI Engine:** Google Gemini API (`google-generativeai`)
+* **Logic:** Dynamic Model Selection & Error Handling
